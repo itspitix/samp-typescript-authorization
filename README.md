@@ -7,4 +7,5 @@ San Andreas Multiplayer script for authorization running through Node JS, writte
 * Upload ``players.sql``
 * Edit ``src/helpers/database.enum.ts`` with your database/mysql informations.
 * Run ``npm install`` into the root folder of the script
+* Run ``tsc`` into the root folder of the script
 * Run the server
