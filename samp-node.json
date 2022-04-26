@@ -1,0 +1,4 @@
+{
+    "log_level": 4,
+	"entry_file": "dist/index.js"
+}
